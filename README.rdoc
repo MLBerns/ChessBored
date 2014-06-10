@@ -1,4 +1,7 @@
-Project Built primarily for the logic challenges it posed. All piece logic currently works, but needs to be tied into back end database
+Project Built primarily for the logic challenges it posed. 
+
+All piece logic currently works and pass RSpec tests, but movement log needs to be tied into back end database
+
 
 Team Members:
 - Matt Berns
